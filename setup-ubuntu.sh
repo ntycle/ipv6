@@ -100,8 +100,8 @@ echo "[+] IPv4: $IP4"
 echo "[+] IPv6 prefix: $IP6::/64"
 
 # PORT RANGE
-FIRST_PORT=22000
-LAST_PORT=22700
+FIRST_PORT=20000
+LAST_PORT=20100
 
 install_3proxy
 
